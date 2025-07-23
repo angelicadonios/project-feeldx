@@ -19,8 +19,12 @@ const Navbar = () => {
         <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Company</span>
-              <h2 className='text-highlight'>FEEL DX PTY LTD</h2>
+              <span className="sr-only">FEELDX</span>
+              <img 
+                alt="FEELDX"
+                className="h-10 w-auto"
+                src='https://ci3.googleusercontent.com/meips/ADKq_NbHR3xp8ics_yIXGUWfHYcfiuAbI_dWOznANxy821zx09R2Axd9JSqTbd4OL6yvWYBRQ4_t1IOmgKlSQElcCUIhmt9eZc_8KZV04MYidFFnjWbTqyjqHoHNq_RoEbvhTAk_t6s9F9Z_9hwRTqlzJFDm2EKpvS9GkKk=s0-d-e1-ft#https://mcusercontent.com/e71c29e2216224bc902c3ef55/images/7fef45a8-9df9-287a-1ba3-feb88e10b102.png' 
+                />
             </a>
           </div>
           <div className="flex lg:hidden">
@@ -52,7 +56,11 @@ const Navbar = () => {
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">FEELDX</span>
-                <h2 className='text-highlight'>FEEL DX PTY LTD</h2>
+                <img 
+                alt="FEELDX"
+                className="h-10 w-auto"
+                src='https://ci3.googleusercontent.com/meips/ADKq_NbHR3xp8ics_yIXGUWfHYcfiuAbI_dWOznANxy821zx09R2Axd9JSqTbd4OL6yvWYBRQ4_t1IOmgKlSQElcCUIhmt9eZc_8KZV04MYidFFnjWbTqyjqHoHNq_RoEbvhTAk_t6s9F9Z_9hwRTqlzJFDm2EKpvS9GkKk=s0-d-e1-ft#https://mcusercontent.com/e71c29e2216224bc902c3ef55/images/7fef45a8-9df9-287a-1ba3-feb88e10b102.png' 
+                />
               </a>
               <button
                 type="button"
